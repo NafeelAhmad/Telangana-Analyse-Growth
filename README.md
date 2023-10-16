@@ -15,3 +15,5 @@
 ✔Plastic & Rubber sector have highest investment in FY 2022.
 ✔Rangareddy, Medchal Malkajgiri, Rangareddy, Mahabubnagar, Peddapalli are the districts that shows substantial investment in Real Estate, Pharmaceuticals, Solar & Renewable Energy, Fertilizers & Pesticides sectors respectively.
 ✔Rangareddy have massive investment of 99% in Real Estate Industry.
+
+**Video Presentation:** https://youtu.be/Cb4taXe1GOU
